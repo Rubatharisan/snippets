@@ -1,0 +1,7 @@
+/* Center everything selector in css */ 
+
+selector {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
